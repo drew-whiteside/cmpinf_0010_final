@@ -1,8 +1,11 @@
 # cmpinf_0010_final
 Big Ideas In Computing Final Project
+Team Name: Small Ideas
 
 Conor McGirr- com61@pitt.edu
+
 Drew Whiteside- daw196@pitt.edu
+
 Ryan Durstewitz- ryd24@pitt.edu
 
 Parking Meters Dataset- https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points
